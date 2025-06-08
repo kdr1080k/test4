@@ -1,0 +1,13 @@
+{
+  "name": "flexcar-app",
+  "platform": "node",
+  "configurations": {
+    "web": {
+      "node": "18.x",
+      "webCommand": "npm start",
+      "appSettings": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+} 
